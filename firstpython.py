@@ -1,2 +1,2 @@
 describe output
-(print) "miauuuu"
+print("miauuuu")
