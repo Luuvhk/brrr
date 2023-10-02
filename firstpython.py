@@ -1,0 +1,2 @@
+describe output
+(print) "miauuuu"
